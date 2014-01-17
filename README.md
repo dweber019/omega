@@ -1,0 +1,4 @@
+omega
+=====
+
+omega learning
